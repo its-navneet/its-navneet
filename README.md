@@ -26,7 +26,7 @@ A 20 Y/O Software Developer🎯 from India. I'm passionate about Full-Stack Andr
 <div align="center">
   
 <img src="./logos/android.png" height="60" width="60">
-<img src="./logos/jetpack compose.png.png" height="60" width="60">
+<img src="./logos/jetpack compose.png" height="60" width="60">
 <img src="./logos/flutter.png" height="60" width="60">
 <img src="./logos/java.png" height="60" width="60">
 <img src="./logos/kotlin.png" height="60" width="60">
