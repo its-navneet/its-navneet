@@ -1,4 +1,10 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![](./media/banner.png)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/its-navneet/count.svg" />
+</p>
+
 
 <h1 align="center"> नमस्ते (Namaste), I'm Navneet Gupta <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
@@ -15,10 +21,9 @@ A 20 Y/O Software Developer🎯 from India. I'm passionate about Full-Stack Andr
 
 - 🌱 I’m currently learning Jetpack Compose and Flutter
 - 👯 I’m looking to collaborate on Android and IOS projects
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/its__navneet/) 
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
-<br />
+- ⚡ Fun Fact: I function on caffeine ☕
+<br/>
 
 
 ## 👨‍💻 Languages and Tools
@@ -26,7 +31,7 @@ A 20 Y/O Software Developer🎯 from India. I'm passionate about Full-Stack Andr
 <div align="center">
   
 <img src="./logos/android.png" height="60" width="60">
-<img src="./logos/jetpack compose.png.png" height="60" width="60">
+<img src="./logos/jetpack compose.png" height="60" width="60">
 <img src="./logos/flutter.png" height="60" width="60">
 <img src="./logos/java.png" height="60" width="60">
 <img src="./logos/kotlin.png" height="60" width="60">
