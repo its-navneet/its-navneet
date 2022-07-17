@@ -7,7 +7,7 @@
 A 20 Y/O Software Developer🎯 from India. I'm passionate about Full-Stack Android Development.:bar_chart:. I like automating things, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
 
 
-![age](https://img.shields.io/badge/age-23-blue)
+![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 
